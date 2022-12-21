@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../utils/instance.dart';
-
 class ListarQuestionario extends StatefulWidget {
   const ListarQuestionario({ Key? key }) : super(key: key);
 
@@ -14,7 +12,7 @@ class _ListarQuestionarioState extends State<ListarQuestionario> {
   Widget build(BuildContext context) {
     return Container(
        //InstanceTelas.infoJson = tela.toList();
-      
     );
   }
 }
+
